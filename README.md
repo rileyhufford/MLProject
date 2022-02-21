@@ -1,1 +1,1 @@
-# MLProject repository
+# ML Project repository
