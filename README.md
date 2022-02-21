@@ -7,6 +7,9 @@
 |Joseph Edwards|jredwards@mavs.coloradomesa.edu|~|
 |Chad Dillon|cdlong@mavs.coloradomesa.edu|~|
 
+## Google Docs
+* Project Notes: https://docs.google.com/document/d/1SaeFLLFC-ubGb-Eew7vmst2g1VZElvj_xsxrnK1x4Og/edit?usp=sharing
+
 ## To do
 * Meet with Basnet to discuss ideas
 * Finalize idea by Wednesday 2-23-22 (Friday at the latest)
