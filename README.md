@@ -4,7 +4,7 @@
 |Name|Email|Phone number|
 |--|--|--|
 |Riley Hufford|grhufford@mavs.coloradomesa.edu|720-800-1500|
-|Joseph Edwards|jredwards@mavs.coloradomesa.edu|~|
+|Joseph Edwards|jredwards@mavs.coloradomesa.edu|970-529-0171|
 |Chad Dillon|cdlong@mavs.coloradomesa.edu|~|
 
 ## Google Docs
