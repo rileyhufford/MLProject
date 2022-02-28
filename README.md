@@ -16,6 +16,7 @@
 * Outline project flow, once project idea is selected
 * Once project is selected; divide work between team members and conquer 
 * Plan meetings
+* Chad's effort work github!
 * Create group schedule
   - Combine everyone's schedule into one place
 * Plan deadlines for work
