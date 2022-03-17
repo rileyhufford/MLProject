@@ -7,6 +7,10 @@
 |Joseph Edwards|jredwards@mavs.coloradomesa.edu|970-529-0171|
 |Chad Dillon|cdlong@mavs.coloradomesa.edu|720-880-8146|
 
+## Data set
+https://www.kaggle.com/nsaravana/malware-detection
+
+
 ## Google Docs
 * Project folder: https://drive.google.com/drive/folders/1Siu09Ga9quNObTnrGAjFHOK5eEcalUHp?usp=sharing
 * Project Notes: https://docs.google.com/document/d/1SaeFLLFC-ubGb-Eew7vmst2g1VZElvj_xsxrnK1x4Og/edit?usp=sharing
