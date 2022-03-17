@@ -1,0 +1,35 @@
+Steps to create a branch:
+- Before creating branch, make sure you are creating a branch from the main branch
+    - use: git checkout main #to make sure you are on main
+        - Also can use: git branch 
+- To create a branch use: git branch <title> #replacing "<title>" with the name of the branch
+- Make sure the branch is now listed using: git branch #lists the branches availiable
+- Check to see that you can use branch with: git checkout <title> #replacing title with branch name 
+    - This will change your branch to your newly created branch, use: git branch #to check that you are on it
+- To push your newly created branch use: git push -u origin <title> #"<title>" being the name of your newly created branch
+- That's it! You did it, good job :)
+
+
+Merging notes:
+-Merging is used to incorporate changes from another branch
+    -Merging main into a side branch:
+        -Git checkout main #get on the main branch
+        -Git pull #get origin updates
+        -Git checkout iss32 #get on the iss32 branch
+        -Git merge main #merge main into iss32
+        -Git commit -m ‘merged main’ #commit changes locally
+        -Git push #sync changes remotely
+    -Merging a side branch into main:
+        -Git checkout iss32 #get on the iss32 branch
+        -Git pull #get origin updates
+        -Git checkout main #get on the main branch
+        -Git merge iss32 #merge iss32 into main
+        -Git commit -m ‘merged iss32’ #commit changes locally
+        -Git push #sync changes remotely
+-Merge conflicts happen when trying to merge two different changes and breaks
+    -Usually because the two or more changes are incompatible
+    -To fix this requires collaboration with the other person(s) who added changes and is project specific
+-How to avoid merge conflicts
+    -Use language specific techniques to split up pieces of the problems (i.e. using modules or classes) 
+        -Do not have a one giant source code file   
+    -Update build scripts as more libraries are added to the project 
