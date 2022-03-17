@@ -26,6 +26,3 @@ https://www.kaggle.com/nsaravana/malware-detection
 * Plan deadlines for work
 * Plan time to get to know each other better outside of project
   - Could look like: getting a beer, hiking, or any other hobby everyone enjoys
-
-
-  ## TEST
