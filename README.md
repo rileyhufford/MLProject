@@ -5,7 +5,6 @@
 |--|--|--|
 |Riley Hufford|grhufford@mavs.coloradomesa.edu|720-800-1500|
 |Joseph Edwards|jredwards@mavs.coloradomesa.edu|970-529-0171|
-|Chad Dillon|cdlong@mavs.coloradomesa.edu|720-880-8146|
 
 ## Data set
 https://www.kaggle.com/nsaravana/malware-detection
