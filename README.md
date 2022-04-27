@@ -1,5 +1,10 @@
 # ML Project repository
 
+## Showcase info
+* Friday 4-29-22
+* Kickoff starts at noon
+* Our presentation is at 2:15 in room EH 303
+
 ## Contact Info
 |Name|Email|Phone number|
 |--|--|--|
