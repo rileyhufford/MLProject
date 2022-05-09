@@ -18,16 +18,16 @@ In the main branch:
   * Outline of project steps - this is a visualization of the ML process
   * Which plot to use for data - this is a picture that shows which sort of visualization to use for different cases
 
-## Showcase info
-* Friday 4-29-22
-* Kickoff starts at noon
-* Our presentation is at 2:15 in room EH 303
-
 ## Contact Info
 |Name|Email|Phone number|
 |--|--|--|
 |Riley Hufford|grhufford@mavs.coloradomesa.edu|720-800-1500|
 |Joseph Edwards|jredwards@mavs.coloradomesa.edu|970-529-0171|
+
+## Showcase info
+* Friday 4-29-22
+* Kickoff starts at noon
+* Our presentation is at 2:15 in room EH 303
 
 ## Google Docs
 * Project folder: https://drive.google.com/drive/folders/1Siu09Ga9quNObTnrGAjFHOK5eEcalUHp?usp=sharing
