@@ -1,7 +1,7 @@
 # ML Project repository
 
 ## Repository Navigation
-In the main branch
+In the main branch:
 * Deliverables folder
   * In this folder you will find our student showcase presentation as well as our research paper
 * MLJupyter folder
